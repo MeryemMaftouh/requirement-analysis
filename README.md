@@ -29,5 +29,42 @@ Requirement Analysis is essential in the Software Development Life Cycle (SDLC) 
 
 5. **Quality Assurance:** Clearly defined requirements ensure that the final product meets expectations and quality standards, increasing stakeholder satisfaction.
 
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities to ensure that the software meets stakeholder needs. These activities include:
+
+- **Requirement Gathering**  
+  Collecting initial information from stakeholders using techniques such as:
+  - Interviews to understand stakeholder needs.
+  - Surveys or questionnaires for larger audiences.
+  - Workshops to discuss and gather requirements.
+  - Observation of end-users in their working environment.
+  - Document analysis to review existing systems and documentation.
+
+- **Requirement Elicitation**  
+  Refining and elaborating on gathered requirements using:
+  - Brainstorming sessions to generate ideas.
+  - Focus groups for detailed discussions with selected stakeholders.
+  - Prototyping to help stakeholders visualize the system and refine requirements.
+
+- **Requirement Documentation**  
+  Recording requirements in a structured format:
+  - Requirement Specification Document listing all functional and non-functional requirements.
+  - User stories describing functionalities from the user’s perspective.
+  - Use case diagrams to show interactions between users and the system.
+
+- **Requirement Analysis and Modeling**  
+  Examining and prioritizing requirements:
+  - Requirement prioritization based on importance and impact.
+  - Feasibility analysis considering technical, financial, and time constraints.
+  - Modeling (e.g., data flow diagrams, entity-relationship diagrams) to visualize and analyze requirements.
+
+- **Requirement Validation**  
+  Ensuring requirements are complete and correct:
+  - Reviewing and approving documented requirements with stakeholders.
+  - Defining clear acceptance criteria for each requirement.
+  - Establishing traceability matrices to ensure all requirements are addressed during development and testing.
+
+
 
 
