@@ -65,6 +65,28 @@ Requirement Analysis involves several key activities to ensure that the software
   - Defining clear acceptance criteria for each requirement.
   - Establishing traceability matrices to ensure all requirements are addressed during development and testing.
 
+## Types of Requirements
 
+Requirement Analysis identifies two main types of requirements: **Functional** and **Non-functional**. Both are essential to ensure the system works correctly and meets stakeholder expectations.
+
+### Functional Requirements 
+Functional requirements describe **what the system should do**. They define the specific functionalities and features that the software must provide.  
+
+**Examples for the booking management system:**
+- **Search Properties:** Users can search for properties by location, price, and availability.  
+- **User Registration:** New users can create accounts with personal details and login credentials.  
+- **Property Listings:** Display properties with essential details and images.  
+- **Booking System:** Users can book properties, view booking details, and manage their bookings.  
+- **User Authentication:** Secure login and registration process for users.
+
+### Non-functional Requirements 
+Non-functional requirements describe **how the system should perform**. They focus on quality attributes rather than specific features.  
+
+**Examples for the booking management system:**
+- **Performance:** The system should load pages within 2 seconds and handle up to 1000 concurrent users.  
+- **Security:** Ensure data encryption, secure login, and protection against vulnerabilities.  
+- **Scalability:** The system should scale horizontally to handle increased traffic.  
+- **Usability:** The application should have an intuitive UI/UX for easy navigation.  
+- **Reliability:** The system should have 99.9% uptime and recover quickly from failures.
 
 
