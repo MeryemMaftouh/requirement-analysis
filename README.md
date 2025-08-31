@@ -89,4 +89,16 @@ Non-functional requirements describe **how the system should perform**. They foc
 - **Usability:** The application should have an intuitive UI/UX for easy navigation.  
 - **Reliability:** The system should have 99.9% uptime and recover quickly from failures.
 
+## Use Case Diagrams
+
+### What are Use Case Diagrams?
+Use Case Diagrams provide a visual representation of how different users (actors) interact with the system to achieve specific goals (use cases). They help stakeholders and developers understand system functionalities and interactions clearly.
+
+### Benefits of Use Case Diagrams
+- Visual representation of system functionalities
+- Identify and organize system requirements
+- Facilitate communication among stakeholders and the development team
+### Booking System Use Case Diagram
+
+![Booking System Use Case Diagram](alx-booking-uc.png)
 
